@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GTDHolder</string>
+    <string name="add">Add</string>
+    <string name="back_button_name">Back</string>
+    <string name="complete_button_name">Finish</string>
+    <string name="collect_title">InBox</string>
+    <string name="delete_string">Delete</string>
+    <string name="dispose_collect_title">Dispose Collection</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="move_to_project_string">Move to Project</string>
+    <string name="project">Project</string>
+    <string name="action">Action</string>
+    <string name="change_project_title">Please input the project title</string>
+    <string name="project_action">Action of project</string>
+    <string name="action_title">Action content</string>
+    <string name="gtdholer_title">MainWindow</string>
+    <string name="collect_list_title">Collect list</string>
+    <string name="work_list_title">Work list</string>
+    <string name="collect_prompt">Press menu to add collect</string>
+    <string name="future_prompt">Press menu to add future</string>
+    <string name="add_success">add success</string>
+    <string name="project_prompt">Press menu to add action for project</string>
+    <string name="action_content_title">Action content</string>
+    <string name="move_to_action_string">Move to Action</string>
+    <string name="change_action_title">Please input the action content</string>
+    <string name="inbox">InBox</string>
+    <string name="work_list">WorkList</string>
+    <string name="review">Review</string>
+    <string name="today">Today</string>
+    <string name="future">Future</string>
+    <string name="info">Information</string>
+    <string name="inquiry">Inquiry</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="inquiry_result">Inquiry Result</string>
+</resources>

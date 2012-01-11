@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">增加</string>
+    <string name="back_button_name">返回</string>
+    <string name="complete_button_name">完成</string>
+    <string name="collect_title">收集内容</string>
+    <string name="delete_string">删除</string>
+    <string name="dispose_collect_title">处理收集</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="move_to_project_string">移到项目清单</string>
+    <string name="project">项目</string>
+    <string name="action">行动</string>
+    <string name="change_project_title">请输入项目名称</string>
+    <string name="project_action">项目行动</string>
+    <string name="action_title">行动内容</string>
+    <string name="gtdholer_title">主界面</string>
+    <string name="collect_list_title">收集列表</string>
+    <string name="work_list_title">工作清单</string>
+    <string name="collect_prompt">点击Menu键增加收集</string>
+    <string name="future_prompt">点击Menu键增加未来事宜</string>
+    <string name="add_success">添加成功</string>
+    <string name="project_prompt">点击Menu键给项目加行动</string>
+    <string name="action_content_title">行动内容</string>
+    <string name="move_to_action_string">移到行动清单</string>
+    <string name="change_action_title">请输入行动内容</string>
+    <string name="inbox">收集篮</string>
+    <string name="work_list">工作清单</string>
+    <string name="review">回顾</string>
+    <string name="today">今天</string>
+    <string name="future">未来事宜</string>
+    <string name="info">参考</string>
+    <string name="inquiry">查询</string>
+    <string name="start_date">起始日期:</string>
+    <string name="end_date">结束日期:</string>
+    <string name="inquiry_result">查询结果</string>
+</resources>
